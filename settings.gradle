@@ -1,2 +1,0 @@
-include ':app', ':lib_interpreter', ':lib_task_api'
-rootProject.name = "My Application"
